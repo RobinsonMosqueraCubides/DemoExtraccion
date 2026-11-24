@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+outputs/*.json
+facturas/*.pdf
+!facturas/README.md
+!outputs/.gitkeep
+*.log
